@@ -1,10 +1,6 @@
 Manifest-Version: 1.0
-Built-By: Oleg
-Build-Jdk: 17.0.5
+Build-Jdk-Spec: 17
 Implementation-Title: Java Brains Course API
 Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: io.javabrains.springbootquickstart
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
- -starter-parent/course-api
 Created-By: Maven Integration for Eclipse
 
