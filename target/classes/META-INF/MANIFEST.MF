@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: kekco
+Built-By: Oleg
 Build-Jdk: 17.0.5
 Implementation-Title: Java Brains Course API
 Implementation-Version: 0.0.1-SNAPSHOT
